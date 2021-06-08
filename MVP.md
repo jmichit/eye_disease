@@ -1,6 +1,7 @@
 ### Early findings
 
 Using MobileNetV2 as the CNN base we can achieve ~70% accuracy on a deeplearning model. 
+The dataset is small but expect to increase accuracy with some tuning. 
 
 
 - [x] MobileNet CNN base + dense layers
